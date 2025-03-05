@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "video-generation-app": {
+      "projectId": "your-project-id",
+      "databaseURL": "https://your-database-name.firebaseio.com",
+      "storageBucket": "your-storage-bucket.appspot.com"
+    }
+  },
+  "default": "video-generation-app"
+}

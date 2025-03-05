@@ -1,0 +1,16 @@
+platform :ios, '12.0'
+
+target 'VideoGenerationApp' do
+  use_frameworks!
+
+  # Pods for VideoGenerationApp
+  pod 'Firebase/Core'
+  pod 'Firebase/Database'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Storage'
+  
+  # Add other dependencies here
+end
+
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
